@@ -14,6 +14,6 @@ end
      if turn_count(board).even? == "X"
        true
      else
-       false
+       "X"
      end
    end
